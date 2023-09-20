@@ -1,11 +1,11 @@
 # How to create a django application that counts visitors using redis database
 
 
-1. Create your virtual enviromment: 
+. Create your virtual enviromment: 
 	sh`
 	python3 -m venv my_venv_name or python -m venv my_venv_name
  	`
-2 - Activate your virtual enviroment: 
+. Activate your virtual enviroment: 
 	* Windows: 
 		- CMD: 
 			  sh`
